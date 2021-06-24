@@ -1,9 +1,9 @@
 {
-  "name": "YOURAPPNAME",
+  "name": "vtexstore-amplitude",
   "vendor": "vtex",
   "version": "0.0.1",
-  "title": "CHANGEME",
-  "description": "CHANGEME",
+  "title": "VTEX STORE - Amplitude",
+  "description": "",
   "billingOptions": {
     "termsURL": "https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy",
     "support": {
@@ -25,7 +25,7 @@
     "vtex.pixel-interfaces": "1.x"
   },
   "settingsSchema": {
-    "title": "YOUR APP NAME",
+    "title": "VTEX STORE - Amplitude",
     "type": "object",
     "properties": {
       "gtmId": {
